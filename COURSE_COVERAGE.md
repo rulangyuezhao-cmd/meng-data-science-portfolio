@@ -11,7 +11,7 @@ Verified against the academic history supplied by Chelsea, dated November 11, 20
 | APS1052H | Artificial Intelligence in Finance: From Neural Networks to Deep Learning | Winter 2026 (January–April 2026) | [Four runnable CPU adaptations](courses/aps1052/); full original neural-network suite not reproduced |
 | MIE1512H | Data Analytics | Winter 2026 (January–April 2026) | [ReasonEval repository](https://github.com/rulangyuezhao-cmd/mie1512-reasoneval-portfolio); saved-score CPU analysis, original GPU inference notebook missing |
 | TEP1026H | Positive Psychology for Engineers | Summer 2026 (May–August 2026) | [Course summary](courses/tep1026/); personal reflections remain private |
-| CHE1800Y | M.Eng. Project | Summer 2026 (May–August 2026), credit recorded | [CMTE industry-project summary](courses/che1800/); company code and data not included |
+| CHE1800Y | M.Eng. Project | Summer 2026 (May–August 2026), credit recorded | CMTE industry project — experience summary on my profile; no standalone public project page; company code and data not included |
 | CHE2222H | Safety Training Workshop | Summer 2024 (May–August 2024), credit recorded | [Training record summary](courses/che2222/); no executable project |
 
 The Data Analytics and Machine Learning emphasis was completed in Summer 2026; the MEng was conferred in October 2026.

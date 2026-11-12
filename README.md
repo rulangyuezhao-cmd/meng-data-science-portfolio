@@ -85,7 +85,7 @@ For a single example: `python run.py mie1624-salary-statistics`. Results, CSV ta
 | Git and reproducibility | Versioned code and inputs, pinned analytical dependencies, GitHub Actions execution |
 | Communication | Course context, scope notes, honest model comparisons and documented limitations |
 
-My Azure experience comes from the CMTE industry project described in the [MEng project summary](courses/che1800/). These local programs do not demonstrate a deployed Azure service. The collection does not claim Property & Casualty insurance experience, randomized online A/B testing, or production geospatial/routing work.
+My Azure experience comes from the CMTE industry project with Wolseley Express. These local programs do not demonstrate a deployed Azure service. The collection does not claim Property & Casualty insurance experience, randomized online A/B testing, or production geospatial/routing work.
 
 ## Example outputs
 
