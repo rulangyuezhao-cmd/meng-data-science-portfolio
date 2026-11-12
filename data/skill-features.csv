@@ -1,0 +1,51 @@
+Skill,frequency,is_soft_skill,is_programming_or_ml,is_communication_related,is_database_related,is_business_driven,is_modeling_related,is_data_collection_related,is_management_related,is_visualization_related
+Communication,582,1,0,1,0,1,0,0,0,0
+Python,572,0,1,0,0,0,0,0,0,0
+Initiative,301,1,0,1,0,0,0,0,0,0
+Collaboration,298,1,0,1,0,1,0,0,0,0
+Leadership,292,1,0,1,0,0,0,0,0,0
+Innovation,278,1,0,0,0,1,0,0,0,0
+Scala,241,0,1,0,0,0,0,0,0,0
+Visualization Tools,211,0,0,0,0,0,0,0,0,1
+Data Analysis,206,0,0,0,0,1,0,0,0,0
+Artificial Intelligence,165,0,1,0,0,0,1,0,0,0
+Deep Learning,153,0,1,0,0,0,1,0,0,0
+Java,125,0,1,0,0,0,0,0,0,0
+Project Management,114,0,0,0,0,1,0,0,1,0
+Flexibility,111,1,0,0,0,1,0,0,0,0
+Business Intelligence,101,0,0,0,0,1,0,0,0,0
+Statistical Analysis,90,0,0,0,0,0,0,0,0,0
+Docker and Kubernetes,88,0,0,0,0,0,0,0,0,0
+Mentorship,88,1,0,1,0,0,0,0,1,0
+Curiosity,83,1,0,0,0,0,0,0,0,0
+Creativity,82,1,0,1,0,0,0,0,0,0
+Coaching,79,1,0,1,0,0,0,0,1,0
+Accountability,77,1,0,1,0,0,0,0,0,0
+Teamwork,75,1,0,1,0,0,0,0,0,0
+Data Mining,74,0,0,0,1,0,0,1,0,0
+Data Modeling,74,0,0,0,1,0,0,1,0,0
+NumPy,71,0,0,0,0,0,0,0,0,0
+Generative Artificial Intelligence,60,0,1,0,0,0,0,0,0,0
+Forecasting,59,0,0,0,0,1,0,0,0,1
+Big Data Technologies,57,0,0,0,1,0,0,0,0,0
+Critical Thinking,54,1,0,1,0,1,0,0,0,0
+Version Control,50,0,0,0,0,0,0,0,0,0
+Cloud Computing,44,0,0,0,0,0,0,0,0,0
+Machine Learning,39,0,1,0,0,0,1,0,0,0
+Data Warehousing,35,0,0,0,1,0,0,0,0,0
+Change Management,33,0,0,0,0,0,0,0,1,0
+Predictive Modeling,32,0,0,0,0,1,1,0,0,0
+SciPy,30,0,0,0,0,0,0,0,0,0
+Microsoft Azure,29,0,0,0,0,0,0,0,0,0
+MATLAB,29,0,1,0,0,0,0,0,0,0
+Risk Management,27,0,0,0,0,1,0,0,1,0
+Time Management,26,1,0,0,0,0,0,0,0,0
+Database Management,24,0,0,0,1,0,0,0,0,0
+R Programming,24,0,1,0,0,0,0,0,0,0
+Feature Engineering,22,0,0,0,0,0,1,0,0,0
+XGBoost,21,0,1,0,0,0,1,0,0,0
+Adaptability,19,1,0,0,0,0,0,0,0,0
+Database Design,18,0,0,0,1,0,0,1,0,0
+Hypothesis Testing,17,0,0,0,0,0,0,0,0,0
+OpenCV,16,0,0,0,0,0,0,0,0,0
+Apache Spark,16,0,0,0,0,0,0,0,0,0

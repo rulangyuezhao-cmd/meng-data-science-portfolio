@@ -1,0 +1,96 @@
+{
+  "python": "3.12.14",
+  "platform": "Windows",
+  "runs": [
+    {
+      "project": "mie1624-salary-statistics",
+      "status": "passed",
+      "seconds": 0.92
+    },
+    {
+      "project": "mie1624-salary-classification",
+      "status": "passed",
+      "seconds": 0.43
+    },
+    {
+      "project": "mie1624-skill-clustering",
+      "status": "passed",
+      "seconds": 0.32
+    },
+    {
+      "project": "aps1070-basic-models",
+      "status": "passed",
+      "seconds": 0.45
+    },
+    {
+      "project": "aps1070-satellite-anomalies",
+      "status": "passed",
+      "seconds": 0.15
+    },
+    {
+      "project": "aps1070-sales-pca",
+      "status": "passed",
+      "seconds": 0.12
+    },
+    {
+      "project": "aps1070-aileron-regression",
+      "status": "passed",
+      "seconds": 0.6
+    },
+    {
+      "project": "che1148-retail-quality",
+      "status": "passed",
+      "seconds": 7.16
+    },
+    {
+      "project": "che1148-retail-sql",
+      "status": "passed",
+      "seconds": 0.16
+    },
+    {
+      "project": "che1148-country-visualization",
+      "status": "passed",
+      "seconds": 0.59
+    },
+    {
+      "project": "che1148-toronto-housing",
+      "status": "passed",
+      "seconds": 0.61
+    },
+    {
+      "project": "aps1052-seasonal-sales",
+      "status": "passed",
+      "seconds": 0.05
+    },
+    {
+      "project": "aps1052-yield-curve",
+      "status": "passed",
+      "seconds": 0.12
+    },
+    {
+      "project": "aps1052-cot-forecast",
+      "status": "passed",
+      "seconds": 0.19
+    },
+    {
+      "project": "aps1052-trading-workflow",
+      "status": "passed",
+      "seconds": 0.22
+    }
+  ],
+  "verified_date": "2026-11-12",
+  "input_tests_passed": 7,
+  "scope": "15 portable CLI analyses; original notebook/model suites are not all reproduced.",
+  "notebooks_passed": 4,
+  "versions": {
+    "numpy": "2.2.6",
+    "pandas": "2.2.3",
+    "scipy": "1.15.3",
+    "scikit-learn": "1.6.1",
+    "matplotlib": "3.10.3",
+    "statsmodels": "0.14.4",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0",
+    "ipykernel": "7.4.0"
+  }
+}

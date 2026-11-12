@@ -1,0 +1,26 @@
+[
+  {
+    "notebook": "aps1052.ipynb",
+    "status": "passed",
+    "seconds": 7.26,
+    "code_cells": 5
+  },
+  {
+    "notebook": "aps1070.ipynb",
+    "status": "passed",
+    "seconds": 7.22,
+    "code_cells": 5
+  },
+  {
+    "notebook": "che1148.ipynb",
+    "status": "passed",
+    "seconds": 10.77,
+    "code_cells": 5
+  },
+  {
+    "notebook": "mie1624.ipynb",
+    "status": "passed",
+    "seconds": 6.55,
+    "code_cells": 4
+  }
+]
