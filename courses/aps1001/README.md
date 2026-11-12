@@ -1,10 +1,19 @@
 # APS1001H — Project Management
 
-Completed Fall 2025.
+**Course term: Fall 2025 (September–December 2025).**
 
 ## Team case study: Milton District Hospital expansion
 
-Our group examined project-management lessons from a healthcare infrastructure expansion. The recovered report considers scope definition, phase-gate governance, stakeholder involvement, coordination across organizations, risk allocation, and long-term operational flexibility.
+**Question**  
+What project-management lessons can be drawn from the Milton District Hospital expansion?
+
+**Result**  
+Produced a team case-study report on governance, stakeholder coordination, risk allocation and operational flexibility. This was an academic analysis, not delivery of the hospital project.
+
+**Methods**
+
+- **Project management — case analysis:** scope definition, phase-gate governance and risk allocation.
+- **Stakeholder & operations analysis:** coordination across organizations, acceptance criteria and long-term flexibility.
 
 For a data-science or engineering project, these themes translate into practical questions: What constitutes acceptance? Who owns each decision? Which users need to be involved before implementation? How will a change affect cost, delivery, and operations?
 

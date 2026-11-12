@@ -1,6 +1,19 @@
 # MIE1512H — Data Analytics
 
-Completed Winter 2026. My ReasonEval project is maintained in its existing repository:
+**Course term: Winter 2026 (January–April 2026).**
+
+**Question**  
+How closely do automated mathematical-reasoning evaluations agree with human annotations?
+
+**Result**  
+Evaluated 3,400 solutions from 12 language models against human annotations.
+
+**Methods**
+
+- **AI — language-model inference:** ReasonEval-7B, PyTorch, Hugging Face and GPU/CPU offloading.
+- **Data analysis & evaluation:** pandas, saved outputs and error analysis.
+
+My ReasonEval project is maintained in its existing repository:
 
 **[mie1512-reasoneval-portfolio](https://github.com/rulangyuezhao-cmd/mie1512-reasoneval-portfolio)**
 

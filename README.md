@@ -10,16 +10,35 @@ This collection connects my graduate coursework to practical data science: prepa
 
 **15 runnable CPU analyses across four technical courses**, plus the separate ReasonEval repository and summaries of my remaining completed MEng courses. The programs here are compact portfolio adaptations of recovered coursework, prepared with AI-assisted refactoring in November 2026. They document changes from the original submissions; they are not exact replays of every original notebook or model experiment.
 
-## Start here
+Course entries use the format **course code + recorded title + academic term + month range**. For example, MIE1624H was **Fall 2024 (September–December)** and MIE1512H was **Winter 2026 (January–April)**. See the [verified course timeline](COURSE_COVERAGE.md); session dates are distinct from assignment dates and later portfolio reconstruction.
 
-| Project | Question and methods | Explore |
+## Choose a project
+
+Each project page separates **Question**, **Result**, and **Methods**. Methods are grouped by purpose—such as statistical hypothesis testing, machine-learning classification, clustering, or time-series modelling—rather than mixed into the result.
+
+| Area | Projects | Explore |
 | --- | --- | --- |
-| **Salary statistics** | How do observed salary distributions differ by work arrangement and education? Welch tests, unequal-variance ANOVA, 10,000 bootstrap resamples. | [MIE1624](courses/mie1624/) |
-| **Classification and clustering** | Predict salary categories and group skills using categorical pipelines, baseline comparisons, K-means and hierarchical clustering. | [MIE1624 notebook](notebooks/mie1624.ipynb) |
-| **Foundations of machine learning** | Compare classifiers, detect anomalous satellite observations, reduce sales dimensions, and implement gradient descent. | [APS1070](courses/aps1070/) |
-| **Process data analytics** | Demonstrate data quality checks, SQL summaries, interpretation, drift simulation, country comparisons, and Toronto housing forecasts. | [CHE1148](courses/che1148/) |
-| **AI in finance** | Test seasonal models, yield-curve factors, FX forecasting baselines, and a trading workflow on fixed historical inputs. | [APS1052](courses/aps1052/) |
-| **ReasonEval** | Evaluate mathematical reasoning in 3,400 solutions from 12 language models against human annotations. CPU analysis of saved inference results. | [Existing MIE1512 repository](https://github.com/rulangyuezhao-cmd/mie1512-reasoneval-portfolio) |
+| Statistical analysis and machine learning | Salary comparisons; salary classification; job-skills clustering | [MIE1624H · Fall 2024](courses/mie1624/) |
+| Machine-learning foundations | Classification baselines; spectral anomaly detection; sales PCA; aileron regression | [APS1070H · Winter 2024](courses/aps1070/) |
+| Process analytics and forecasting | Retail model quality; SQL summaries; historical country comparisons; housing forecasts | [CHE1148H · Winter 2025](courses/che1148/) |
+| Financial modelling | Seasonal sales; yield curves; COT/FX forecasts; trading workflow | [APS1052H · Winter 2026](courses/aps1052/) |
+| LLM evaluation | ReasonEval inference and reasoning-error analysis | [MIE1512H · Winter 2026](courses/mie1512/) |
+
+### Example: salary statistics
+
+**Question**  
+How do observed salaries differ by work arrangement and education?
+
+**Result**  
+The public adaptation retained 11,748 of 12,209 observations. Its remote-minus-in-person mean difference was about USD 31,572, with a bootstrap 95% interval of USD 29,067–34,117. These observational comparisons do not establish causal effects.
+
+**Methods**
+
+- **Statistical analysis — hypothesis testing:** Welch's t-test and unequal-variance ANOVA.
+- **Statistical analysis — uncertainty estimation:** bootstrap resampling and confidence intervals.
+- **Data preparation:** IQR screening and grouped summaries.
+
+[Open the full project and limitations →](courses/mie1624/)
 
 ## Run the projects
 
